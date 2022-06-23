@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kifangamukundi
 - 👀 I’m interested in backend engineering
-- 🌱 I’m currently learning c plus plus
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on system design!
 - 📫 How to reach me pkmymcmbnhs@gmail.com
 
