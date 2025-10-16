@@ -1,6 +1,6 @@
 # Hello, I'm [Kifanga Mukundi](https://github.com/kifangamukundi)
 
-### Full-Stack Software Engineer based in Nairobi, Kenya 🌍 | Available for Remote Work 💻
+### Full-Stack Software Engineer based in Nairobi, Kenya | Available for Remote Work
 
 I’m a **full-stack software engineer** with a deep love for clean design, efficient systems, and elegant code.  
 
@@ -68,4 +68,4 @@ If you love building things that **feel good, run fast, and scale well**, we’l
 > _“Simple is better than complex — and fast is better than fancy.”_  
 > Whether in Go, Svelte, or Vim, I believe in building software that’s clear, reliable, and a joy to maintain.
 
-**Thanks for visiting my profile!** Let’s build something amazing together 🚀
+**Thanks for visiting my profile!** Let’s build something amazing together
