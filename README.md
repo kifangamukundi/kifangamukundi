@@ -1,75 +1,71 @@
-# 👋 Hello, I'm [Kifanga Mukundi](https://github.com/kifangamukundi)
+# Hello, I'm [Kifanga Mukundi](https://github.com/kifangamukundi)
 
-### A passionate software engineer based in Nairobi, Kenya 🌍 | Available for remote work! 💻
+### Full-Stack Software Engineer based in Nairobi, Kenya 🌍 | Available for Remote Work 💻
 
-I'm a **full-stack software engineer** with expertise in both **frontend** and **backend** development. I work on exciting projects using modern technologies like **Next.js**, **React**, and **Node.js**, and I love building scalable and performant applications. My backend skills are complemented by my experience with **MongoDB**, **PostgreSQL**, and cloud technologies like **Google Cloud Platform (GCP)**. I’m also proficient in **Docker**, which helps me build and deploy containerized applications efficiently.
+I’m a **full-stack software engineer** with a deep love for clean design, efficient systems, and elegant code.  
 
-## 🚀 What I Do
+I started my frontend journey with **React**, leveled up with **Next.js**, and finally found my favorite framework — **Svelte** ❤️.  
+On the backend, I began with **Node.js** and **Express**, but these days I’m fully in love with **Go (Golang)** for its simplicity, speed, and power.  
 
-- **Frontend Development**: I specialize in creating beautiful and user-friendly web interfaces with **React** and **Next.js**.
-- **Backend Engineering**: I design and build robust server-side applications with **Node.js**, working with databases like **MongoDB** and **PostgreSQL**.
-- **Cloud Architecture**: I deploy applications on **Google Cloud Platform (GCP)** and ensure that they are scalable and highly available.
-- **DevOps**: I use **Docker** to containerize applications and streamline the deployment process.
-- **System Design**: I’m passionate about designing efficient, scalable systems and architectures.
-- **Programming Languages**: I’m skilled in **JavaScript**, **Node.js**, and **C++**.
+Also, I’m a proud **Vim user** — I like keeping my hands on the keyboard and my mind in the code.  
 
-## 📚 Current Learning
+## What I Do
 
-- Improving my skills in **JavaScript** and **TypeScript**.
-- Diving deeper into **cloud architecture** and **microservices** patterns.
-- Learning more about **AI/ML** technologies.
+- **Frontend Development** → Crafting fast, reactive, and maintainable UIs with **Svelte**, **SvelteKit**, and **Tailwind CSS**.  
+- **Backend Engineering** → Building robust, performant services in **Go** with clean architecture principles.  
+- **System Design** → Architecting scalable systems with a focus on clarity, performance, and maintainability.  
+- **DevOps** → Using **Docker**, **CI/CD**, and cloud platforms (especially **GCP**) to deploy with confidence.  
+- **Databases** → Working comfortably with **PostgreSQL**, **MongoDB**, and designing efficient data models.  
+- **Tooling** → Automating and scripting workflows with **Vim**, **Git**, and a Linux-first setup.  
 
-## 🌱 Let's Collaborate!
+## Currently Exploring
 
-I’m currently open to collaborating on projects that involve:
+- Writing more **idiomatic Go** — clean concurrency, context handling, and modular services.  
+- Building advanced **SvelteKit** applications with reactive data layers.  
+- Experimenting with **microservices**, **message queues**, and **distributed systems** in Go.  
+- Optimizing my **Vim workflow** (it’s a lifelong craft).  
 
-- System design and architecture
-- Full-stack web development
-- Building and scaling backend systems
-- Cloud-based solutions
+## Technologies & Tools
 
-If you're looking to bring an idea to life, let's talk about how we can work together! I’m especially excited about **system design** challenges and working with teams to build scalable solutions.
+Category | Tools & Frameworks |
+**Frontend** | Svelte, SvelteKit, Tailwind CSS, Next.js, React |
+**Backend** | Go (Golang), Node.js, Express |
+**Databases** | PostgreSQL, MongoDB |
+**DevOps** | Docker, Kubernetes, CI/CD pipelines |
+**Cloud** | Google Cloud Platform (GCP), Firebase |
+**Languages** | Go, JavaScript, TypeScript, C++ |
+**Editor & Tools** | Vim, Git, GitHub, Postman, tmux |
 
-## 📬 How to Reach Me
+## Recent Work Highlights
 
-- Email: [pkmymcmbnhs@gmail.com](mailto:pkmymcmbnhs@gmail.com)
-- Phone: +254702817040 (available for calls and WhatsApp)
+- **Survey Builder** – A modular survey system built with **SvelteKit** and **Go**, supporting dynamic data units, condition logic, and JSON exports.  
+- **Real-Time Chat App** – Built using **Go**, **WebSockets**, and **Svelte**, designed for low-latency communication.  
+- **E-commerce Platform** – Scalable, cloud-deployed app combining **SvelteKit**, **Go**, and **PostgreSQL**.
 
-Feel free to reach out if you're interested in working on an exciting project, or if you just want to chat about tech!
+## Let's Collaborate
 
----
+I’m open to remote opportunities and collaborations involving:
 
-### 🔧 Technologies & Tools
+- Svelte / SvelteKit frontends  
+- Go backend systems  
+- Scalable full-stack web architectures  
+- Developer tooling and performance optimization  
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, GraphQL
-- **Databases**: MongoDB, PostgreSQL
-- **Cloud**: Google Cloud Platform (GCP), Firebase
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines
-- **Languages**: JavaScript, Node.js, C++
-- **Tools**: Git, GitHub, VSCode, Postman
+If you love building things that **feel good, run fast, and scale well**, we’ll get along great.
 
----
+## Get in Touch
 
-### 💼 My Recent Projects
+- **Email**: [pkmymcmbnhs@gmail.com](mailto:pkmymcmbnhs@gmail.com) 
+- **Email**: [mukundikifanga@gmail.com](mailto:mukundikifanga@gmail.com)  
+- **Phone / WhatsApp**: +254 702 817 040  
+- **LinkedIn**: [Kifanga Mukundi](https://www.linkedin.com/in/kifangamukundi/)  
+- **Twitter**: [@kifangamukundi](https://twitter.com/kifangamukundi)  
+- **GitHub**: [@kifangamukundi](https://github.com/kifangamukundi)  
 
-- **[Ecommerce Application](#)**: A scalable web application built with **React** and **Node.js**, deployed on **Google Cloud**.
-- **[Real-Time-Chat](#)**: A real-time chat application using **MongoDB**, **Socket.io**, and **React**.
 
----
+### Philosophy
 
-### 🌍 Where I Work
+> _“Simple is better than complex — and fast is better than fancy.”_  
+> Whether in Go, Svelte, or Vim, I believe in building software that’s clear, reliable, and a joy to maintain.
 
-Based in **Nairobi, Kenya**, I am available for **remote work** with teams around the world. I love collaborating with clients to build innovative software solutions that solve real-world problems. Whether you're a startup or an established company, I’m ready to help you achieve your technical goals.
-
----
-
-## 🔗 Connect with Me
-
-- GitHub: [@kifangamukundi](https://github.com/kifangamukundi)
-- LinkedIn: [Kifanga Mukundi](https://www.linkedin.com/in/kifangamukundi/)
-- Twitter: [@kifangamukundi](https://twitter.com/kifangamukundi)
-
----
-
-Thank you for stopping by! Let's build something amazing together! 🚀
+**Thanks for visiting my profile!** Let’s build something amazing together 🚀
